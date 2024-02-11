@@ -1,11 +1,12 @@
 # Récompenses
-🇺🇲  English :
+
+English :
 
 Hello everyone,
 
 I would like to present to you this little script that allows adding daily rewards to players. Every day, players have the opportunity to collect these rewards. You have the option to do this via a command or to integrate it into a menu.
 
-🇫🇷  French :
+French :
 
 Bonjour à tous,
 
